@@ -22,6 +22,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/rajneesh3433/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/rajneesh3433/Leetcode/tree/master/0127-word-ladder) |
 ## Breadth-First Search
 |  |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rajneesh3433/Leetcode/tree/master/0200-number-of-islands) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/rajneesh3433/Leetcode/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
