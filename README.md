@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rajneesh3433/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/rajneesh3433/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/rajneesh3433/Leetcode/tree/master/0200-number-of-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/rajneesh3433/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rajneesh3433/Leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/rajneesh3433/Leetcode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/rajneesh3433/Leetcode/tree/master/0115-distinct-subsequences) |
 ## Math
 |  |
@@ -75,4 +77,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rajneesh3433/Leetcode/tree/master/0088-merge-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rajneesh3433/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
