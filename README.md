@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rajneesh3433/Leetcode/tree/master/0200-number-of-islands) |
+| [2965-find-missing-and-repeated-values](https://github.com/rajneesh3433/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rajneesh3433/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3903-smallest-stable-index-i](https://github.com/rajneesh3433/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/rajneesh3433/Leetcode/tree/master/0127-word-ladder) |
+| [2965-find-missing-and-repeated-values](https://github.com/rajneesh3433/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -45,8 +47,13 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rajneesh3433/Leetcode/tree/master/0200-number-of-islands) |
+| [2965-find-missing-and-repeated-values](https://github.com/rajneesh3433/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/rajneesh3433/Leetcode/tree/master/0115-distinct-subsequences) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/rajneesh3433/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
