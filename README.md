@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/rajneesh3433/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/rajneesh3433/Leetcode/tree/master/0200-number-of-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/rajneesh3433/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rajneesh3433/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -66,4 +67,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rajneesh3433/Leetcode/tree/master/0022-generate-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/rajneesh3433/Leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/rajneesh3433/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
