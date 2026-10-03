@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rajneesh3433/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rajneesh3433/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/rajneesh3433/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/rajneesh3433/Leetcode/tree/master/0127-word-ladder) |
 ## Breadth-First Search
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rajneesh3433/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rajneesh3433/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/rajneesh3433/Leetcode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/rajneesh3433/Leetcode/tree/master/0115-distinct-subsequences) |
 ## Math
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rajneesh3433/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/rajneesh3433/Leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,4 +84,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rajneesh3433/Leetcode/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/rajneesh3433/Leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
