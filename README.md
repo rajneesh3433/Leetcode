@@ -36,6 +36,7 @@
 | [0115-distinct-subsequences](https://github.com/rajneesh3433/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/rajneesh3433/Leetcode/tree/master/0127-word-ladder) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajneesh3433/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/rajneesh3433/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0022-generate-parentheses](https://github.com/rajneesh3433/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rajneesh3433/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajneesh3433/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/rajneesh3433/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rajneesh3433/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rajneesh3433/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/rajneesh3433/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Search
 |  |
 | ------- |
